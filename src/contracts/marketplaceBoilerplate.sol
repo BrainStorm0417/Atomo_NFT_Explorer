@@ -43,8 +43,6 @@ contract marketPlaceBoilerPlate is ReentrancyGuard {
          address owner
          );
      
-    
-    
     function createMarketItem(
         address nftContract,
         uint256 tokenId,
