@@ -2,7 +2,8 @@
 
 This Project is a fork of Ethereum Boilerplate and demostrates how you can build your own NFT Marketplace. This project of course work on any EVM-compatible blockchain such as Polygon, Avalanche, Binance Smart Chain and other such chains.
 
-![Preview](preview.gif)
+![Untitled](https://user-images.githubusercontent.com/89033750/160958560-22fc8156-299d-4837-942c-320d58ed9b3d.png)
+![Untitled1](https://user-images.githubusercontent.com/89033750/160958565-1cd52cac-3b7e-4bb4-a6ea-c7b9d3f292c0.png)
 
 # ⭐️ `Star us`
 If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
@@ -18,8 +19,6 @@ git clone https://github.com/ethereum-boilerplate/ethereum-nft-marketplace-boile
 cd ethereum-nft-marketplace-boilerplate
 yarn install 
 ```
-✏ Rename `.env.example` to `.env` in the main folder and provide your `appId` and `serverUrl` from Moralis ([How to start Moralis Server](https://docs.moralis.io/moralis-server/getting-started/create-a-moralis-server)) 
-Example:
 ```jsx
 REACT_APP_MORALIS_APPLICATION_ID = xxxxxxxxxxxx
 REACT_APP_MORALIS_SERVER_URL = https://xxxxxx.grandmoralis.com:2053/server
