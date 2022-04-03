@@ -1,6 +1,6 @@
 # NFT Marketing Example
 
-This Project is a fork of Ethereum Boilerplate and demostrates how you can build your own NFT Marketplace. This project of course work on any EVM-compatible blockchain such as Polygon, Avalanche, Binance Smart Chain and other such chains.
+This Project is a website how you can build your own NFT Marketplace. This project of course work on any EVM-compatible blockchain such as Polygon, Avalanche, Binance Smart Chain and other such chains.
 
 ![Untitled](https://user-images.githubusercontent.com/89033750/160958560-22fc8156-299d-4837-942c-320d58ed9b3d.png)
 ![Untitled1](https://user-images.githubusercontent.com/89033750/160958565-1cd52cac-3b7e-4bb4-a6ea-c7b9d3f292c0.png)
